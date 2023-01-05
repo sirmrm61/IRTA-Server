@@ -1,0 +1,24 @@
+{
+  "name": "assitanttrader",
+  "version": "1.0.0",
+  "description": "server side project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirmrm61/IRTA-Server.git"
+  },
+  "keywords": [
+    "trade",
+    "assistant",
+    "trader"
+  ],
+  "author": "sir.mrm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirmrm61/IRTA-Server/issues"
+  },
+  "homepage": "https://github.com/sirmrm61/IRTA-Server#readme"
+}
